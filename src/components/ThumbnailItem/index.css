@@ -1,0 +1,13 @@
+/* Write your code here. */
+.list {
+  margin: 15px;
+}
+
+.blur {
+  opacity: 2;
+  filter: blur(0.5);
+}
+.btn {
+  border-width: 0px;
+  border-color: white;
+}
